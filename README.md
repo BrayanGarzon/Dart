@@ -16,8 +16,10 @@
 - git commit -m "Comentario del commit"
 
 
-
-
-
+## Ver commits
+- git log
+  
+## lanzar cambios a remoto
+- git push -u origin main
 
 
