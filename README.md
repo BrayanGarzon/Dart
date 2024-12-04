@@ -22,4 +22,6 @@
 ## lanzar cambios a remoto
 - git push -u origin main
 
+## Comando para retornar al ultimo commit 
+- git restore .
 
