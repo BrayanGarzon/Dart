@@ -25,3 +25,9 @@
 ## Comando para retornar al ultimo commit 
 - git restore .
 
+## Comando para visualizar los archivos modificados
+- git status --short 
+
+
+## Agregar alias 
+- git config --global alias.stsh status --short
