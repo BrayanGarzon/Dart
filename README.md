@@ -31,3 +31,6 @@
 
 ## Agregar alias 
 - git config --global alias.stsh status --short
+
+## Correr un archivo dart 
+- dart run nombrearchivo.ext
